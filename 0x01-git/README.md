@@ -1,1 +1,1 @@
-my second commit
+It takes courage to do all things!
